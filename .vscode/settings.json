@@ -31,8 +31,8 @@
     "eslint.autoFixOnSave": true /* already set with source.fixAll, but here to document */
   },
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "terminal.integrated.fontFamily": "monospace",
   "workbench.sideBar.location": "right",
   "explorer.confirmDelete": false,
   "eslint.quiet": true,
+  "terminal.integrated.fontFamily": "'FiraCode NF Retina'",
 }
